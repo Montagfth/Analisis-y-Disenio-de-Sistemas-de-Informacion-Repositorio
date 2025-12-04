@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.mycompany</groupId>
-    <artifactId>Proyecto_Base_de_Datos_II</artifactId>
+    <artifactId>Analsis-y-Disenio-Proyecto-Final</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -81,5 +81,5 @@
             </plugin>
         </plugins>
     </build>
-
+    <name>Analsis-y-Disenio-Proyecto-Final</name>
 </project>
