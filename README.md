@@ -66,7 +66,7 @@ Sistema de gestión de servicios para TESLA Motors Inc. desarrollado como proyec
 4. Crear base de datos MongoDB: `dbproyectobasededatosii`  
   
 ### Ejecución  
-```bash`
+`bash`
 
 ### Estructura & Paqueteria
 
@@ -111,4 +111,5 @@ src/main/java/
 ✅ Conectividad con bases de datos
 ⏳ Controladores MVC por implementar
 ⏳ Tests unitarios pendientes
+
 
