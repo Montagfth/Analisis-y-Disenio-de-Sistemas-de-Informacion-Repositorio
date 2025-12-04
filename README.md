@@ -66,10 +66,11 @@ Sistema de gestión de servicios para TESLA Motors Inc. desarrollado como proyec
 4. Crear base de datos MongoDB: `dbproyectobasededatosii`  
   
 ### Ejecución  
-```bash
+```bash`
 
 ### Estructura & Paqueteria
-`
+
+```
 src/main/java/  
 ├── Administrative/  
 │   └── panelAdministrator.java  
@@ -95,7 +96,8 @@ src/main/java/
     ├── panelService1.java  
     ├── panelService2.java  
     └── panelService3.java
-`
+```
+
 ### Características Destacadas
 - Arquitectura poliglota con MySQL y MongoDB
 - Gestión de sesiones con roles diferenciados
@@ -103,9 +105,10 @@ src/main/java/
 - Sistema de feedback con calificación por estrellas
 - Interfaz moderna con FlatLaf
 
-Estado del Proyecto
+### Estado del Proyecto
 ✅ Base de datos implementada y probada
 ✅ Capa de presentación funcional
 ✅ Conectividad con bases de datos
 ⏳ Controladores MVC por implementar
 ⏳ Tests unitarios pendientes
+
